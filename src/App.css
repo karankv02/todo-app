@@ -1,0 +1,8 @@
+.todo-txt{
+  white-space: nowrap;
+    text-wrap: initial;
+    max-width: 600px;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+    word-break: break-all;
+}
